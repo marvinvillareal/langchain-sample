@@ -1,0 +1,1 @@
+Authentication requires a valid API key passed in the Authorization header.

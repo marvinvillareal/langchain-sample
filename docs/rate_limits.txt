@@ -1,0 +1,1 @@
+Rate limiting is applied per user at 100 requests per minute.
